@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gestao-oficina/static/css/main.40dd720b.css",
+    "main.js": "/gestao-oficina/static/js/main.97068c25.js",
+    "static/js/453.17b1ed23.chunk.js": "/gestao-oficina/static/js/453.17b1ed23.chunk.js",
+    "static/media/fundo.webp": "/gestao-oficina/static/media/fundo.2b44cda9b7409f1804a1.webp",
+    "index.html": "/gestao-oficina/index.html",
+    "main.40dd720b.css.map": "/gestao-oficina/static/css/main.40dd720b.css.map",
+    "main.97068c25.js.map": "/gestao-oficina/static/js/main.97068c25.js.map",
+    "453.17b1ed23.chunk.js.map": "/gestao-oficina/static/js/453.17b1ed23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40dd720b.css",
+    "static/js/main.97068c25.js"
+  ]
+}
